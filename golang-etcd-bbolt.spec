@@ -7,7 +7,7 @@
 # https://github.com/etcd-io/bbolt
 %global goipath		go.etcd.io/bbolt
 %global forgeurl	https://github.com/etcd-io/bbolt
-Version:		1.3.9
+Version:		1.3.11
 
 %gometa
 
